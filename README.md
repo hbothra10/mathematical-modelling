@@ -87,3 +87,35 @@ Tilt-dependent thrust direction
 GIF animation export
 
 Modular simulation structure
+
+🧪 Example Simulation
+
+Tilted thrust produces forward acceleration and curved ascent trajectory consistent with quadcopter flight mechanics.
+
+🛠️ Tools
+
+Python
+
+NumPy
+
+Matplotlib
+
+🚀 Future Extensions
+
+Full quadcopter motor torque model
+
+Hover stabilization control
+
+Trajectory tracking
+
+Swarm simulation
+
+🎓 Context
+
+This project is part of a broader study of UAV dynamics, control, and autonomous aerial systems, progressing toward research-level quadcopter modeling and simulation.
+
+👩‍💻 Author
+
+Harshita Bothra
+B.Tech Robotics and Automation
+2026
